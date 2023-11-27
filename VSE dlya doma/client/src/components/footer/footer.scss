@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffbc02;
+    height: 56px;
+    padding: 0 1rem;
+    div {
+        align-self: center;
+        font-weight: 600;
+        a{
+            color: #333f48;
+        }
+    }
+}
